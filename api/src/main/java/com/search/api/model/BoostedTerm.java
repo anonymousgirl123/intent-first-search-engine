@@ -1,0 +1,1 @@
+package com.search.api.model; public class BoostedTerm{public String token; public float boost; public BoostedTerm(String t,float b){token=t;boost=b;}}
