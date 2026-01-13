@@ -1,6 +1,2 @@
-# Intent-First Search Engine
-
-A production-oriented search platform that enforces user intent using BM25 and query-time lexical boosts
-before introducing semantic or ML-based ranking.
-
-**Philosophy:** ML suggests. Rules protect. Users decide.
+# intent-first-search-engine
+A reference implementation of modern search architecture that prioritizes deterministic intent enforcement (BM25 + boosts), bounded semantic expansion, and explainable ranking. Built to reflect real production search systems rather than end-to-end black-box ML.
