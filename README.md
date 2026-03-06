@@ -14,7 +14,7 @@ using **BM25 + query-time lexical boosts**, before introducing semantic or ML-ba
 This repository demonstrates how **real search systems** are built in production:  
 deterministic first, intelligent later.
 
----
+--- 
 
 ## 🎯 Core Philosophy
 
