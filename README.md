@@ -2,7 +2,7 @@
 
 Production-grade intent-first search using BM25 + query-time boosts. 
 
-ML suggests. Rules protect. Users decide.
+ML suggests. Rules protect. Users decide. 
 
 # Intent-First Search Engine
 
