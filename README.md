@@ -3,7 +3,7 @@
 Production-grade intent-first search using BM25 + query-time boosts. 
 
 ML suggests. Rules protect. Users decide. 
-
+ 
 # Intent-First Search Engine
 
 A production-oriented reference implementation of a modern search system that **enforces user intent first**
