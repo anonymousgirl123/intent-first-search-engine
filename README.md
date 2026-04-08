@@ -30,8 +30,7 @@ This system enforces the following invariant:
 
 Search is a **funnel**, not a brain.
 
-
-
+```
 
 User Query
 ↓
@@ -39,7 +38,7 @@ Intent Control (BM25 + Query-Time Boosts)
 ↓
 Candidate Retrieval (Elasticsearch)
 ---
-
+```
 ## 🏗 High-Level Design (HLD)
 
 ### Responsibilities by Layer
